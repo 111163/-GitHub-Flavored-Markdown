@@ -16,5 +16,7 @@ _平凡的人，走的慢_
 _勇敢的人，不回头_
 
 ***理想主义永远都是世间的指路明灯***
+
+![灵儿妹妹](https://gitee.com/may_you_marry_in_red_admin/gfm/blob/main/%E7%81%B5%E5%84%BF%E5%A6%B9%E5%A6%B9.gif "灵儿妹妹")<br>
 ___
 
