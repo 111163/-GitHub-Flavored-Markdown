@@ -64,7 +64,7 @@ int main(int argc, char* argv[], char* envp[])
 # 兼容html语法-貌似没什么用 #
 <span style="color:red;font-size:30px">
 梦想，需要努力去实现
-</span>
+</span><br/>
 # 转义 #
 不使用转义时:# <br/>
 是一个转义时: \#
