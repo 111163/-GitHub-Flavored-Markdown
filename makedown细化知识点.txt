@@ -1,0 +1,73 @@
+# 标题 #
+# 一级标题 #
+## 二级标题 ##
+### 三级标题 ###
+#### 四级标题 ####
+##### 五级标题 #####
+###### 六级标题 ######
+# 标题的另一种写法 #
+一级标题 
+=
+二级标题
+-
+正文文本
+# 表示引用 #
+>梦想还是要有的，万一实现了呢。 --马云 <br/>
+>人没有梦想和咸鱼有什么区别。   --周星驰
+# 加粗和倾斜 #
+我的目标:*技术高手*<br/>
+我的爱好:_听歌_,_唱歌_<br/>
+最喜欢的颜色:**红色**<br/>
+最喜欢的数字:__9__<br/>
+# 无序列表 #
+程序语言列表:
+* C
+* C++
+* Python
+数据库列表:
++ MySQL
++ Oracle
++ PostGreSQL
+NoSQL列表:
+- Redis
+- MongoDB
+- HBase
+# 有序列表 #
+那些年一起学过的语言
+1. Pascal
+2. C
+3. C++
+4. Python
+5. Java
+6. Lua
+# 超链接 #
+<https://www.baidu.com><br/>
+[百度](https://www.baidu.com)<br/>
+[搜狗](https://www.sogou.com)
+# 表格 #
+| 国内IT巨头 | 国际IT巨头 |
+| ---------- | ---------- |
+| 阿里巴巴 | 苹果 |
+| 腾讯 | 微软 |
+| 百度 | 谷歌 |
+# 图片 #
+![赵灵儿](https://imgsa.baidu.com/forum/w%3D580/sign=d6981fe03b87e9504217f3642039531b/7336970a304e251ff552f4dba686c9177f3e5369.jpg)
+# 代码段 #
+```
+#include <stdio.h>
+int main(int argc, char* argv[], char* envp[])
+{
+	printf("Hello world!!!");
+	return 0;
+}
+```
+# 兼容html语法-貌似没什么用 #
+<span style="color:red;font-size:30px">
+梦想，需要努力去实现
+</span><br/>
+
+# 转义 #
+不使用转义时:<br/>
+# 
+使用转义时:<br/>
+\#
