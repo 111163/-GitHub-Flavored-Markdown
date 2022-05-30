@@ -61,3 +61,5 @@ int main(int argc, char* argv[], char* envp[])
 	return 0;
 }
 ```
+# 兼容html语法 #
+<span style="color:red;font-size:30">梦想，需要努力去实现</span>
