@@ -71,3 +71,16 @@ int main(int argc, char* argv[], char* envp[])
 # 
 使用转义时:<br>
 \#
+
+# 13. 删除线 #
+~~这是一错误的文本~~
+
+# 14. 流程图 #
+st=>start: 开始
+e=>end: 结束
+ep=>operation: 问你个事儿
+cond=>condition: 这篇文章写的好么
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
