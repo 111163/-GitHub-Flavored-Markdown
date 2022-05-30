@@ -1,3 +1,4 @@
+<a id="top"></a>
 # 1.  标题 #
 ># 一级标题 #
 >>## 二级标题 ##
@@ -75,12 +76,5 @@ int main(int argc, char* argv[], char* envp[])
 # 13. 删除线 #
 ~~这是一错误的文本~~
 
-# 14. 流程图 #
-st=>start: 开始
-e=>end: 结束
-ep=>operation: 问你个事儿
-cond=>condition: 这篇文章写的好么
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
+# 14. 锚点连接 #
+[回到文章开头](#top)
