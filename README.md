@@ -1,6 +1,6 @@
 ___
 
-# $$makedown在GitHub中的应用-GFM$$ #
+$$makedown在GitHub中的应用-GFM$$
 
 `makedown`<br>
 by:[@张亮](https://gitee.com/may_you_marry_in_red_admin)<br>
