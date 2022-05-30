@@ -80,4 +80,14 @@ int main(int argc, char* argv[], char* envp[])
 [回到文章开头](#top)
 # 15. 开头输入空格 #
 　前面有一个空格
-# 16. #
+# 16. 语法高亮代码段 #
+```
+#include <iostream>
+using namespace std;
+int main(int argc, char* argv[], char* envp[])
+{
+	cout << "Hello world!!!"<<endl
+	return 0;
+}
+
+```cpp
