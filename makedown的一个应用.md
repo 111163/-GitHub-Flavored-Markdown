@@ -1,4 +1,4 @@
-# $makedown的一个应用$ #
+# $$makedown的一个应用$$ #
 _markdown是一种GitHub支持的语法在标准markdown语法的基础上做了修改，称为Github Flavored Markdown，简称GFM_
 # 1. 快捷一级二级标题 #
 　　一行下面写=，上行字体最大
