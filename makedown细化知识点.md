@@ -26,7 +26,7 @@
 	* C
 	* C++
 	* Python
-数据库列表:
++ 数据库列表:
 	+ MySQL
 	+ Oracle
 	+ PostGreSQL
