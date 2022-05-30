@@ -79,4 +79,4 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage";//javascipt
 ```cpp
 string &operator+(const string& A,const string B)//cpp
 ```
-# 16. 未完待续.................................................#
+# 16. 未完待续................................................. #
