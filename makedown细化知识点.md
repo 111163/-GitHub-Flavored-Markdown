@@ -102,4 +102,7 @@ int main(int argc, char* argv[], char* envp[])
 # 19. 补空行表示格式分离 #
 # 20. LaTex公式 #
 $x^n+y^n=z^n$
+$$x^n+y^n=z^n$$
 $$x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+$x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$
+
