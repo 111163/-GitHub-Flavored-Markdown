@@ -1,4 +1,5 @@
-_markdown是一种GitHub支持的语法在标准markdown语法的基础上做了修改，称为Github Flavored Markdown，简称GFM_
+# $$makedown的一个应用$$ #
+_markdown是一种GitHub支持的语法，但GitHub在标准markdown语法的基础上做了修改，称为Github Flavored Markdown，简称GFM_
 # 1. 快捷一级二级标题 #
 　　一行下面写=，上行字体最大
 =
@@ -78,4 +79,4 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage";//javascipt
 ```cpp
 string &operator+(const string& A,const string B)//cpp
 ```
-
+# 16. 未完待续................................................. #
