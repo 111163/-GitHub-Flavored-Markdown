@@ -42,3 +42,5 @@ NoSQL列表:
 6. Lua
 # 超链接 #
 <https://www.baidu.com>
+[百度](https://www.baidu.com)
+[搜狗](https://www.sogou.com)
