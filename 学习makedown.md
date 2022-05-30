@@ -67,5 +67,5 @@ int main(int argc, char* argv[], char* envp[])
 </span><br/>
 
 # 转义 #
-不使用转义时:# 
-使用转义时:\\#
+不使用转义时:\# 
+使用转义时:\#
