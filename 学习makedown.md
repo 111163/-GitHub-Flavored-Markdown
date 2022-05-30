@@ -52,3 +52,12 @@ NoSQL列表:
 | 百度 | 谷歌 |
 # 图片 #
 ![赵灵儿](https://imgsa.baidu.com/forum/w%3D580/sign=d6981fe03b87e9504217f3642039531b/7336970a304e251ff552f4dba686c9177f3e5369.jpg)
+# 代码段 #
+```
+#include <stdio.h>
+int main(int argc, char* argv[], char* envp[])
+{
+	printf("Hello world!!!");
+	return 0;
+}
+```
