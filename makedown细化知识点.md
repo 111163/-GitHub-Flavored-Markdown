@@ -101,4 +101,4 @@ int main(int argc, char* argv[], char* envp[])
 我是`好人`
 # 19. 补空行表示格式分离 #
 # 20. LaTex公式 #
-`$x^n+y^n=z^n$`
+$ x^n+y^n=z^n $
