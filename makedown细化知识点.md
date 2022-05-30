@@ -40,9 +40,9 @@
 1. Pascal
 2. C
 
-	2. C系列语言
+	2.1 C系列语言
 
-		3. C
+		2.1.1 C
 3. C++
 4. Python
 5. Java
