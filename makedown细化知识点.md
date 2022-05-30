@@ -105,4 +105,10 @@ $x^n+y^n=z^n$
 $$x^n+y^n=z^n$$
 $$x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 $x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$
-
+# 21. 注脚 #
+这是一个注脚[^footnote]的样例。
+这是第二个注脚[^footnote2]的样例。
+[^footnote]: 这是一个*注脚*的**文本**。
+[^footnote2]: 这是另一个*注脚*的**文本**。
+# 22.  内容目录 #
+[TOC]
