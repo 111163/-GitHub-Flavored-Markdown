@@ -12,13 +12,13 @@
 -
 正文文本
 # 表示引用 #
->梦想还是要有的，万一实现了呢。 --马云 <br/>
+>梦想还是要有的，万一实现了呢。 --马云 <br>
 >人没有梦想和咸鱼有什么区别。   --周星驰
 # 加粗和倾斜 #
-我的目标:*技术高手*<br/>
-我的爱好:_听歌_,_唱歌_<br/>
-最喜欢的颜色:**红色**<br/>
-最喜欢的数字:__9__<br/>
+我的目标:*技术高手*<br>
+我的爱好:_听歌_,_唱歌_<br>
+最喜欢的颜色:**红色**<br>
+最喜欢的数字:__9__<br>
 # 无序列表 #
 程序语言列表:
 * C
@@ -41,8 +41,8 @@ NoSQL列表:
 5. Java
 6. Lua
 # 超链接 #
-<https://www.baidu.com><br/>
-[百度](https://www.baidu.com)<br/>
+<https://www.baidu.com><br>
+[百度](https://www.baidu.com)<br>
 [搜狗](https://www.sogou.com)
 # 表格 #
 | 国内IT巨头 | 国际IT巨头 |
@@ -64,10 +64,10 @@ int main(int argc, char* argv[], char* envp[])
 # 兼容html语法-貌似没什么用 #
 <span style="color:red;font-size:30px">
 梦想，需要努力去实现
-</span><br/>
+</span><br>
 
 # 转义 #
-不使用转义时:<br/>
+不使用转义时:<br>
 # 
-使用转义时:<br/>
+使用转义时:<br>
 \#
