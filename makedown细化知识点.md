@@ -39,10 +39,6 @@
 那些年一起学过的语言
 1. Pascal
 2. C
-
-	2.1 C系列语言
-
-		2.1.1 C
 3. C++
 4. Python
 5. Java
@@ -104,3 +100,5 @@ int main(int argc, char* argv[], char* envp[])
 # 18. 凸显词高亮 #
 我是`好人`
 # 19. 补空行表示格式分离 #
+# 20. LaTex公式 #
+`$x^n+y^n=z^n$`
