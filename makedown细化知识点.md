@@ -20,19 +20,20 @@
 我的爱好:_听歌_,_唱歌_<br>
 最喜欢的颜色:**红色**<br>
 最喜欢的数字:__9__<br>
+人生理想:***世界大同***
 # 5. 无序列表 #
-程序语言列表:
-* C
-* C++
-* Python
+* 程序语言列表:
+	* C
+	* C++
+	* Python
 数据库列表:
-+ MySQL
-+ Oracle
-+ PostGreSQL
-NoSQL列表:
-- Redis
-- MongoDB
-- HBase
+	+ MySQL
+	+ Oracle
+	+ PostGreSQL
+- NoSQL列表:
+	- Redis
+		- MongoDB
+	- HBase
 # 6. 有序列表 #
 那些年一起学过的语言
 1. Pascal
@@ -66,15 +67,15 @@ int main(int argc, char* argv[], char* envp[])
 <span style="color:red;font-size:30px">
 梦想，需要努力去实现
 </span><br>
-
 # 12. 转义 #
 不使用转义时:<br>
 # 
 使用转义时:<br>
 \#
-
 # 13. 删除线 #
 ~~这是一错误的文本~~
-
 # 14. 锚点连接 #
 [回到文章开头](#top)
+# 15. 开头输入空格 #
+　前面有一个空格
+# 16. #
