@@ -32,5 +32,13 @@ NoSQL列表:
 - Redis
 - MongoDB
 - HBase
+# 有序列表 #
+那些年一起学过的语言
+1. Pascal
+2. C
+3. C++
+4. Python
+5. Java
+6. Lua
 
 
