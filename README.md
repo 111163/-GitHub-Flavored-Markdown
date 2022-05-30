@@ -1,5 +1,5 @@
 本库中的内容详细的介绍和展示了makedown的语法，和各个语法作用下的文本效果<br>
-`makedown<br> `
+`makedown`<br>
 by:[@张亮](https://gitee.com/may_you_marry_in_red_admin)
 ___
 _本平凡的人，走的慢_
