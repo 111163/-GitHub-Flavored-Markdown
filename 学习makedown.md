@@ -61,5 +61,10 @@ int main(int argc, char* argv[], char* envp[])
 	return 0;
 }
 ```
-# 兼容html语法 #
-<span style="color:red;font-size:30px">梦想，需要努力去实现</span>
+# 兼容html语法-貌似没什么用 #
+<span style="color:red;font-size:30px">
+梦想，需要努力去实现
+</span>
+# 转义 #
+不使用转义时:#
+是一个转义时:\#
