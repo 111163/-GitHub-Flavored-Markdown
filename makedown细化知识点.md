@@ -82,11 +82,11 @@ int main(int argc, char* argv[], char* envp[])
 　前面有一个空格
 # 16. 语法高亮代码段 #
 ```cpp
-#include <iostream>//this is a cpp
+#include <iostream>
 using namespace std;
 int main(int argc, char* argv[], char* envp[])
 {
-	cout << "Hello world!!!"<<endl
+	cout << "Hello world!!!"<<endl;//this is a cpp
 	return 0;
 }
 
